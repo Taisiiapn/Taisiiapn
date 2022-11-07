@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [the pet project](https://github.com/Taisiiapn/pet_app)
 
-- 🤝Also the pet project: [UberEats](https://taisiiapn.github.io/Finally_Uber_Eats/)
+- 🤝 Also the pet project: [UberEats](https://taisiiapn.github.io/Finally_Uber_Eats/)
 
-- 🌱 I’m currently learning **back-end development (PostgreSQL, MVC, Sequelize)**
+- 🌱 Worked on [project](https://github.com/Taisiiapn/project/tree/autorisation/app)
+
+- I’m currently learning **back-end development (PostgreSQL, MVC, Sequelize)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
