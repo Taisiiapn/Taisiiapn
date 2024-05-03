@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Taisiia Pomazan</h1>
-<h3 align="center">Innovative, focused, self-driven, and passionate Front-end developer from Ukraine. Based in Canada.</h3>
+<h1 align="center">Hello 👋, I'm Taya Pomazan</h1>
+<h3 align="center">Innovative, self-driven, and passionate Full Stack developer</h3>
 
 - 🔭 I’m currently working on [the pet project](https://github.com/Taisiiapn/pet_app)
 
@@ -7,7 +7,6 @@
 
 - 🌱 Worked on [project](https://github.com/Taisiiapn/project/tree/autorisation/app)
 
-- I’m currently learning **back-end development (PostgreSQL, MVC, Sequelize)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
