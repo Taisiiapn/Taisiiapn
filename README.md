@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I'm Taya Pomazan</h1>
 <h3 align="center">Innovative, self-driven, and passionate Full Stack developer</h3>
 
-- 🔭 I’m currently working on [the project](https://github.com/Taisiiapn/pet_app)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
